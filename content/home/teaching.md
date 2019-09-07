@@ -1,7 +1,13 @@
----
++++
 widget = "blank"
 headless = true
----
+
+active = true  # Activate this widget? true/false
+weight = 70  # Order that this section will appear.
+
+title = "Teaching"
+subtitle = "Courses, seminars, and supervision"
++++
 
 <!-- ## Teaching
 
