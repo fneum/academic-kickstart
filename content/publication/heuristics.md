@@ -7,7 +7,7 @@ links:
   - icon_pack: fas
     icon: book
     name: arXiv
-    url: https://arxiv.org/abs/1907.10548
+    url: 'https://arxiv.org/abs/1907.10548'
 ---
 
 Lorem ipsum
