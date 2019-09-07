@@ -1,5 +1,5 @@
 ---
-widget = "blank
+widget = "blank"
 headless = true
 ---
 
