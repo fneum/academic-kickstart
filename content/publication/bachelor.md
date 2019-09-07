@@ -1,8 +1,7 @@
 ---
 title: Scheduling of Heat Pumps Using Genetic Algorithms
 date: 2016-07-15
-summary: Fabian Neumann
-authors: ['admin', Tom Brown]
+authors: ['admin']
 
 links:
   - icon_pack: ai
