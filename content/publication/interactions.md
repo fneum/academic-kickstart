@@ -2,7 +2,6 @@
 title: Interaction of a Hydrogen Refueling Station Network for Heavy-Duty Vehicles and the Power System in Germany for 2050
 date: 2019-08-27
 summary: Philipp Kluschke, Fabian Neumann
-tags: journal
 
 links:
   - icon_pack: fas

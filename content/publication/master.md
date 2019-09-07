@@ -2,7 +2,6 @@
 title: Optimal Scheduling of Electric Vehicle Charging in Distribution Networks
 date: 2017-07-22
 summary: Fabian Neumann
-tags: master
 
 links:
   - icon_pack: ai
