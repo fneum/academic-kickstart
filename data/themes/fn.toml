@@ -2,7 +2,7 @@
 name = "fn"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 primary = "#009682"
