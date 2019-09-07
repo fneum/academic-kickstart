@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 ---
 
-## Teaching
+<!-- ## Teaching
 
 * Seminar in [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2019/energieinformatikseminar/index), KIT *(winter 2018)*
 * Tutorials for [Energy System Modelling](https://nworbmot.org/courses/esm-2019/), KIT *(summer 2019)*
@@ -21,4 +21,4 @@ headless = true
 * **Seminar Thesis:** Automatic Selection Methods for Candidate Lines in Transmission Expansion Planning, KIT, *2018*
 * **Master Thesis (co-supervision):** Selection and Evaluation of Possible Renewable Energy Import Options for the Transport Sector, Fraunhofer ISI, *2018*
 * **Master Thesis (co-supervision):** Use of Renewable Synthetic Fuels in Decarbonised Shipping,Fraunhofer ISI, *2018*
-* **Master Thesis (co-supervision):** Use of Renewable Synthetic Fuels in Decarbonised Aviation, Fraunhofer ISI, *2018*
+* **Master Thesis (co-supervision):** Use of Renewable Synthetic Fuels in Decarbonised Aviation, Fraunhofer ISI, *2018* -->
