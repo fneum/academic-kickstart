@@ -1,7 +1,7 @@
 ---
 title: Scheduling of Heat Pumps Using Genetic Algorithms [Betriebsoptimierung von Wärmepumpen mittels genetischer Algorithmen] (German)
 date: 2016-07-15
-summary: 14 Juli 2016, Thesis Presentation, Department of Economics, Karlsruhe Institute of Technology
+summary: Thesis Presentation, Department of Economics, Karlsruhe Institute of Technology
 authors: ["admin"]
 
 links:
