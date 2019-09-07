@@ -1,7 +1,7 @@
 ---
 title: Heuristics for Transmission Expansion Planning in Low-Carbon Energy System Models
 date: 2019-09-01
-summary: Fabian Neumann, Tom Brown
+summary: Fabian Neumann, Tom Brown @ 16th International Conference on European Energy Markets
 
 links:
   - icon_pack: fas
