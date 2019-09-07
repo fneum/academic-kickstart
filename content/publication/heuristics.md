@@ -3,6 +3,7 @@ title: Heuristics for Transmission Expansion Planning in Low-Carbon Energy Syste
 date: 2019-09-01
 authors: ["admin", Tom Brown]
 
+event: EEM 19
 #@ 16th International Conference on European Energy Markets
 
 links:
