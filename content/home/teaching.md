@@ -25,6 +25,6 @@ subtitle = "Courses, seminars, and supervision"
 
 ## Opportunities
 
-* Seminar thesis: [Economic benefits and computational challenges of coordinating generation, transmission and storage infrastructure planning for low-carbon energy systems ](http://go.wiwi.kit.edu/EI-WS2019-20)
+* Seminar thesis: [Economic benefits and computational challenges of coordinating generation, transmission and storage infrastructure planning for low-carbon energy systems](http://go.wiwi.kit.edu/EI-WS2019-20)
 * Master thesis: [Gas Transmission Network Modelling – Sector-coupling in Highly Renewable Energy Systems](https://www.iai.kit.edu/2552_2588.php)
 * Master thesis: [Stochastic Optimisation to Analyse Parametric Uncertainty in Energy System Models](https://www.iai.kit.edu/2552_2748.php)
