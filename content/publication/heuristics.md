@@ -1,5 +1,5 @@
----
-title: Heuristics for Transmission Expansion Planning
++++
+title: Heuristics for Transmission Expansion Planning in Low-Carbon Energy System Models
 date: 2019-09-01
 authors: Fabian Neumann, Tom Brown
 
@@ -8,6 +8,6 @@ authors: Fabian Neumann, Tom Brown
 #     icon: book
 #     name: arXiv
 #     url: 'https://arxiv.org/abs/1907.10548'
----
++++
 
 Lorem ipsum
