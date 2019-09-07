@@ -189,3 +189,7 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
+
+
+[params]
+  color_theme = "custom"
