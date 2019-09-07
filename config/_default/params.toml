@@ -191,5 +191,4 @@ sharing = true
     show_logo = false
 
 
-[params]
-  color_theme = "custom"
+color_theme = "custom"
