@@ -47,7 +47,7 @@ subtitle = "Conference talks and workshops"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#decd18"
+  # color = "#decd18"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
