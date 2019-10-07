@@ -6,7 +6,7 @@ authors: ["admin"]
 
 links:
   - icon_pack: fas
-    icon: keynote
+    icon: microphone
     name: presentation
     url: 'https://www.neumann.fyi/files/schedulingheatpumps.pdf'
   - icon_pack: ai
