@@ -1,6 +1,5 @@
 ---
-title: "The Near-Optimal Feasible Space \\ 
-of a Renewable Power System Model"
+title: "The Near-Optimal Feasible Space of a Renewable Power System Model"
 date: 2019-11-14
 summary: Helmholtz ES2050 Project Meeting, Dresden, Germany.
 authors: ["admin"]
