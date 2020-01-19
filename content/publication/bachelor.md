@@ -1,6 +1,6 @@
 ---
 title: Scheduling of Heat Pumps Using Genetic Algorithms
-date: 2016-07
+date: 2016-07-15
 summary: Bachelor Thesis, School of Economics, Karlsruhe Institute of Technology, 2016
 authors: ['admin']
 

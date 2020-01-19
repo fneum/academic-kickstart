@@ -1,6 +1,6 @@
 ---
 title: "An Introduction to Energy System Modelling with PyPSA: Python for Power System Analysis"
-date: 2019-07
+date: 2019-07-14
 summary: Research stay @ Instituto de Investigaciòn Technològica (IIT), Comillas Pontifical University, Madrid, Spain.
 authors: ["admin"]
 

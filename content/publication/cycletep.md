@@ -1,14 +1,21 @@
 ---
 title: "Transmission Expansion Planning with Linear Optimal Power Flow Using Cycle Flows"
-date: 2019-10
-summary: Georgia Institute of Technology, Atlanta, GA, USA (2019-10-08), Los Alamos National Laboratory, Los Alamos, NM, USA (2019-10-15)
+date: 2019-10-08
 authors: ["admin"]
 
 links:
   - icon_pack: fas
     icon: microphone
-    name: presentation
+    name: presentation @ Georgia Institute of Technology (October 2019)
     url: 'https://www.neumann.fyi/files/cycletep.pdf'
+  - icon_pack: fas
+    icon: microphone
+    name: presentation @ Los Alamos National Laboratory (October 2019)
+    url: 'https://www.neumann.fyi/files/cycletep.pdf'
+  - icon_pack: fas
+    icon: code
+    name: code
+    url: 'https://github.com/fneum/ev_chargingcoordination2017'
 ---
 
 Linear optimal power flow (LOPF) formulations use a linearization of the

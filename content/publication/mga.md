@@ -1,6 +1,6 @@
 ---
 title: The Near-Optimal Feasible Space of a Renewable Power System
-date: 2019-10
+date: 2019-10-01
 authors: ["admin", Tom Brown]
 
 event: Submitted to 21st Power Systems Computation Conference
@@ -26,6 +26,10 @@ links:
     icon: microphone
     name: presentation @ ES2050 PhD seminar
     url: 'https://www.neumann.fyi/files/es2050-seminar-mga.pdf'
+  - icon_pack: fas
+    icon: poster
+    name: poster @ openmod workshop (January 2020)
+    url: 'https://www.neumann.fyi/files/openmod-mga-poster.pdf'
 ---
 
 Models for long-term investment planning of the power system typically return

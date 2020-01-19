@@ -1,6 +1,6 @@
 ---
 title: Optimal Scheduling of Electric Vehicle Charging in Distribution Networks
-date: 2017-07
+date: 2017-07-22
 summary: Master Thesis, Sustainable Energy Systems, School of Engineering, The University of Edinburgh, 2017
 authors: ["admin"]
 

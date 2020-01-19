@@ -1,6 +1,6 @@
 ---
 title: Roadmap Gas für die Energiewende – Nachhaltiger Klimabeitrag des Gassektors
-date: 2019-05
+date: 2019-04-30
 authors: [Jakob Wachsmuth, Julia Michaelis, "admin", Martin Wietschel, Vicki Duscha, Charlotte Degünther, Wolfgang Köppel, Zubair, Asif Zubair]
 
 links:
