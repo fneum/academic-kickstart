@@ -1,6 +1,7 @@
 ---
 title: Scheduling of Heat Pumps Using Genetic Algorithms
-date: 2016-07-15
+date: 2016-07
+summary: Bachelor Thesis, School of Economics, Karlsruhe Institute of Technology, 2016
 authors: ['admin']
 
 links:
@@ -8,9 +9,11 @@ links:
     icon: researchgate
     name: ResearchGate
     url: 'https://doi.org/10.13140/RG.2.2.20058.85440'
+  - icon_pack: fas
+    icon: microphone
+    name: presentation (German)
+    url: 'https://www.neumann.fyi/files/schedulingheatpumps.pdf'
 ---
-
-## Bachelor Thesis, Karlsruhe Institute of Technology, 2016
 
  Due to the volatility of renewable energy generation, the probability of intermittent electricity deficiency or excess rises. A stable power grid requires a balanced demand and supply of power. Especially heat pumps in connection with thermal storages that can consume electric power when demand is low and allow for a deferred usage of the stored energy by buffering, bear significant potential for intelligent demand-side management.
 

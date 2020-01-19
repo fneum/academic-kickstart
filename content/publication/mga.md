@@ -1,16 +1,31 @@
 ---
 title: The Near-Optimal Feasible Space of a Renewable Power System
-date: 2019-10-07
+date: 2019-10
 authors: ["admin", Tom Brown]
 
 event: Submitted to 21st Power Systems Computation Conference
-#@ 16th International Conference on European Energy Markets
 
 links:
   - icon_pack: fas
     icon: book
     name: preprint
     url: 'http://arxiv.org/abs/1910.01891'
+  - icon_pack: fas
+    icon: code
+    name: code
+    url: 'https://github.com/pypsa/pypsa-eur-mga'
+  - icon_pack: fas
+    icon: microphone
+    name: presentation @ Strommarkttreffen PhD seminar
+    url: 'https://www.neumann.fyi/files/strommarkttreffen-phd-berlin-mga.pdf'
+  - icon_pack: fas
+    icon: microphone
+    name: presentation @ ES2050 project seminar
+    url: 'https://www.neumann.fyi/files/es2050-seminar-dresden-mga.pdf'
+  - icon_pack: fas
+    icon: microphone
+    name: presentation @ ES2050 PhD seminar
+    url: 'https://www.neumann.fyi/files/es2050-seminar-mga.pdf'
 ---
 
 Models for long-term investment planning of the power system typically return

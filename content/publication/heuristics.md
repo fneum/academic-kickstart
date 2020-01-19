@@ -1,16 +1,19 @@
 ---
 title: Heuristics for Transmission Expansion Planning in Low-Carbon Energy System Models
-date: 2019-09-01
+date: 2019-09
 authors: ["admin", Tom Brown]
 
-event: EEM 19
-#@ 16th International Conference on European Energy Markets
+event: 16th International Conference on European Energy Markets (EEM)
 
 links:
   - icon_pack: fas
     icon: book
     name: preprint
     url: 'https://arxiv.org/abs/1907.10548'
+  - icon_pack: fas
+    icon: microphone
+    name: presentation
+    url: 'https://www.neumann.fyi/files/eem19-tepheuristics.pdf'
 ---
 
 Governments across the world are planning to increase the share of renewables in their energy systems. The siting of new wind and solar power plants requires close coordination with grid planning, and hence co-optimization of investment in generation and transmission expansion in spatially and temporally resolved models is an indispensable but complex problem. Particularly considerations of transmission expansion planning (TEP) add to the problem's complexity. 

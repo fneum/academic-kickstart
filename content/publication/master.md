@@ -1,6 +1,7 @@
 ---
 title: Optimal Scheduling of Electric Vehicle Charging in Distribution Networks
-date: 2017-07-22
+date: 2017-07
+summary: Master Thesis, Sustainable Energy Systems, School of Engineering, The University of Edinburgh, 2017
 authors: ["admin"]
 
 links:
@@ -10,11 +11,13 @@ links:
     url: 'https://doi.org/10.13140/RG.2.2.13347.96805'
   - icon_pack: fas
     icon: code
-    name: Code
+    name: code
     url: 'https://github.com/fneum/ev_chargingcoordination2017'
+  - icon_pack: fas
+    icon: microphone
+    name: presentation
+    url: 'https://www.neumann.fyi/files/evchargingcoordination.pdf'
 ---
-
-## Master Thesis, The University of Edinburgh, 2017
 
 The transport sector accounts for a significant proportion of total energy consumption and is to date largely based on fossil fuels. Mitigation of greenhouse gas emissions via the large-scale electrification of road transport will likely deteriorate voltage profiles and overload network equipment in distribution networks. Controlling the charging schedule of electric vehicles in a centralised and coordinated manner provides a potential solution to mitigate the issues and could defer the investment on upgrading the network infrastructures.
 

@@ -1,7 +1,7 @@
 ---
 title: "Transmission Expansion Planning with Linear Optimal Power Flow Using Cycle Flows"
-date: 2019-10-08
-summary: Georgia Institut of Technology, Atlanta, GA, USA (2019-10-08), Los Alamos National Laboratory, Los Alamos, NM, USA (2019-10-15)
+date: 2019-10
+summary: Georgia Institute of Technology, Atlanta, GA, USA (2019-10-08), Los Alamos National Laboratory, Los Alamos, NM, USA (2019-10-15)
 authors: ["admin"]
 
 links:
