@@ -15,7 +15,7 @@ role: PhD Student in Energy System Modelling
 # Organizations/Affiliations
 organizations:
 - name: Karlsruhe Institute of Technology (KIT)
-  url: "www.kit.edu"
+  url: "https://www.kit.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests evolve around renewable energy networks, energy system modelling, sector coupling, large-scale optimisation and energy technologies.
@@ -87,7 +87,7 @@ I am currently pursuing my PhD in the Energy System Modelling Group of [Dr. Tom 
 
 Previously, I did research at the [Fraunhofer ISI](https://www.isi.fraunhofer.de/), after I had finished my studies of Sustainable Energy Systems at the [University of Edinburgh](https://www.eng.ed.ac.uk/studying/postgraduate/msc-taught/msc-sustainable-energy-systems). I completed my Master in 2017 with a [dissertation](https://doi.org/10.13140/RG.2.2.13347.96805) focussed on the optimal scheduling of electric vehicles in distribution networks under uncertainty. Before that, I studied industrial engineering centred on energy informatics and energy technologies at the [Karlsruhe Institute of Technology](https://www.wiwi.kit.edu/english/studiengangWiingBSc.php). I wrote my Bachelor [thesis](https://doi.org/10.13140/RG.2.2.20058.85440) on heat pump scheduling using genetic algorithms at the [Research Centre for Information Technology (FZI)](https://www.fzi.de/en/about-us/organisation/research-divisions/ispe/?contentId_=2257).
 
-I co-develop open-source software:
+I am a member of the [Open Energy Modelling Initiative](http://openmod-initiative.org/), which promotes openness and transparency in energy system modelling and I also co-develop open-source software:
 
 - __PyPSA__ is a power system analysis toolbox written in Python. It's available at [github.com/PyPSA/PyPSA](https://github.com/PyPSA/PyPSA) and documented at [pypsa.readthedocs.io](https://pypsa.readthedocs.io/).
 - __PyPSA-Eur__ is is an open model dataset of the European power system at the transmission network level that covers the full ENTSO-E area. It's available at [github.com/PyPSA/PyPSA](https://github.com/PyPSA/PyPSA-Eur) and documented at [pypsa-eur.readthedocs.io](https://pypsa-eur.readthedocs.io/). The dataset of pre-built networks is available at [10.5281/zenodo.3601882](https://doi.org/10.5281/zenodo.3601882).
