@@ -3,8 +3,6 @@ title: Robust Scheduling of Electric Vehicle Charging in LV Distribution Network
 date: 2020-03-31
 authors: [Wei Sun, "admin", Gareth P. Harrison]
 
-event:  IEEE Transactions on Industry Applications
-
 links:
   - icon_pack: fas
     icon: book
