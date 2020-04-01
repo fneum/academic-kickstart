@@ -1,7 +1,7 @@
 ---
 title: "Transmission Expansion Planning with Linear Optimal Power Flow Using Cycle Flows"
 date: 2019-10-08
-authors: ["admin"]
+authors: ["admin", Tom Brown]
 
 links:
   - icon_pack: fas
