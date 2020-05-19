@@ -9,6 +9,10 @@ links:
     name: preprint
     url: 'https://arxiv.org/abs/1908.10119'
   - icon_pack: fas
+    icon: book
+    name: ScienceDirect
+    url: 'https://doi.org/10.1016/j.trd.2020.102358'
+  - icon_pack: fas
     icon: microphone
     name: presentation @ IAEE 26th Workshop Student Chapters
     url: 'https://www.neumann.fyi/files/gee_presentation.pdf'
