@@ -1,7 +1,7 @@
 ---
-title: Interaction of a Hydrogen Refueling Station Network for Heavy-Duty Vehicles and the Power System in Germany for 2050
-date: 2019-08-01
-authors: [Philipp Kluschke, "admin"]
+title: Hydrogen Refueling Station Networks for Heavy-Duty Vehicles in Future Power Systems
+date: 2020-05-10
+authors: [Philipp K. Rose, "admin"]
 
 links:
   - icon_pack: fas
