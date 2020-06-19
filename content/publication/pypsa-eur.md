@@ -13,7 +13,7 @@ links:
     name: tutorial
     url: 'https://github.com/lisazeyen/pypsa-eur-tut'
   - icon_pack: fas
-    icon: icon-youtube
+    icon: youtube
     name: YouTube
     url: https://www.youtube.com/watch?v=ty47YU1_eeQ
 ---
