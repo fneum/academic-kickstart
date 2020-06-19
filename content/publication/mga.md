@@ -14,7 +14,7 @@ links:
     icon: code
     name: code
     url: 'https://github.com/pypsa/pypsa-eur-mga'
-  - icon_pack: fas
+  - icon_pack: fab
     icon: youtube
     name: YouTube
     url: https://www.youtube.com/watch?v=8OJuzNNiKQE&t=499s

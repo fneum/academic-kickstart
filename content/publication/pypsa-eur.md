@@ -12,7 +12,7 @@ links:
     icon: laptop-code
     name: tutorial
     url: 'https://github.com/lisazeyen/pypsa-eur-tut'
-  - icon_pack: fas
+  - icon_pack: fab
     icon: youtube
     name: YouTube
     url: https://www.youtube.com/watch?v=ty47YU1_eeQ
