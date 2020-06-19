@@ -20,6 +20,10 @@ links:
     icon: code
     name: code
     url: 'https://github.com/fneum/benchmark-teplopf'
+  - icon_pack: fas
+    icon: icon-youtube
+    name: YouTube
+    url: https://www.youtube.com/watch?v=-Oz8bjFdilY&t=504s
 ---
 
 

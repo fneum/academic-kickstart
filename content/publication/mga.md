@@ -15,6 +15,10 @@ links:
     name: code
     url: 'https://github.com/pypsa/pypsa-eur-mga'
   - icon_pack: fas
+    icon: icon-youtube
+    name: YouTube
+    url: https://www.youtube.com/watch?v=8OJuzNNiKQE&t=499s
+  - icon_pack: fas
     icon: microphone
     name: presentation @ Strommarkttreffen PhD seminar
     url: 'https://www.neumann.fyi/files/strommarkttreffen-phd-berlin-mga.pdf'
