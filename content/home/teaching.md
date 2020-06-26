@@ -11,6 +11,7 @@ subtitle = "Courses, seminars, and supervision"
 
 ## Courses and Seminars
 
+* **Tutorials** for [Energy System Modelling](https://nworbmot.org/courses/esm-2020/), KIT *(summer 2020)*
 * **Seminar** in [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2019/energieinformatikseminar/index), KIT *(winter 2019)*
 * **Tutorials** for [Energy System Modelling](https://nworbmot.org/courses/esm-2019/), KIT *(summer 2019)*
 * **Seminar** in [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2018/energieseminar/index), KIT *(winter 2018)*
@@ -29,7 +30,7 @@ subtitle = "Courses, seminars, and supervision"
 
 ## Previous Master Thesis Projects
 
-* **Master**: [Gas Transmission Network Modelling – Sector-coupling in Highly Renewable Energy Systems](https://www.iai.kit.edu/2552_2588.php), KIT, *2019*
+* **Master**: [Gas Transmission Network Modelling – Sector-coupling in Highly Renewable Energy Systems](https://www.iai.kit.edu/2552_2588.php), KIT, *202ß*
 * **Seminar**: [Economic benefits and computational challenges of coordinating generation, transmission and storage infrastructure planning for low-carbon energy systems](http://go.wiwi.kit.edu/EI-WS2019-20), KIT, *2019*
 * **Master**: [Power Transmission Loss Modelling in European-scale Energy System Optimisation](https://www.iai.kit.edu/2552_2589.php), KIT, *2019*
 * **Seminar**: Automatic Selection Methods for Candidate Lines in Transmission Expansion Planning, KIT, *2018*
