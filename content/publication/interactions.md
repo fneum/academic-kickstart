@@ -10,7 +10,7 @@ links:
     url: 'https://arxiv.org/abs/1908.10119'
   - icon_pack: fas
     icon: book
-    name: ScienceDirect
+    name: 'Transportation Research Part D: Transport and Environment'
     url: 'https://doi.org/10.1016/j.trd.2020.102358'
   - icon_pack: fas
     icon: microphone

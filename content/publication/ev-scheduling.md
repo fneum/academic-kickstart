@@ -6,7 +6,7 @@ authors: [Wei Sun, "admin", Gareth P. Harrison]
 links:
   - icon_pack: fas
     icon: book
-    name: IEEE TIA
+    name: IEEE Transactions on Industry Applications
     url: 'https://doi.org/10.1109/TIA.2020.2983906'
   - icon_pack: fas
     icon: book

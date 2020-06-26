@@ -12,7 +12,7 @@ links:
     url: 'https://arxiv.org/abs/1907.10548'
   - icon_pack: fas
     icon: book
-    name: IEEE
+    name: EEM 2019 Conference Proceedings
     url: 'https://doi.org/10.1109/EEM.2019.8916411'
   - icon_pack: fas
     icon: microphone
