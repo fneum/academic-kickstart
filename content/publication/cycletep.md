@@ -9,12 +9,20 @@ links:
     name: preprint
     url: 'http://arxiv.org/abs/2004.08702'
   - icon_pack: fas
+    icon: book
+    name: ACM e-Energy Proceedings
+    url: 'https://doi.org/10.1145/3396851.3397688'
+  - icon_pack: fas
     icon: microphone
-    name: presentation @ Georgia Institute of Technology (October 2019)
+    name: presentation @ ACM e-Energy 2020 (Jun 2020)
     url: 'https://www.neumann.fyi/files/cycletep.pdf'
   - icon_pack: fas
     icon: microphone
-    name: presentation @ Los Alamos National Laboratory (October 2019)
+    name: presentation @ Georgia Institute of Technology (Oct 2019)
+    url: 'https://www.neumann.fyi/files/cycletep.pdf'
+  - icon_pack: fas
+    icon: microphone
+    name: presentation @ Los Alamos National Laboratory (Oct 2019)
     url: 'https://www.neumann.fyi/files/cycletep.pdf'
   - icon_pack: fas
     icon: code

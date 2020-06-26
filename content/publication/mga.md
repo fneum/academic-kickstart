@@ -3,7 +3,7 @@ title: The Near-Optimal Feasible Space of a Renewable Power System
 date: 2019-10-01
 authors: ["admin", Tom Brown]
 
-event: Submitted to 21st Power Systems Computation Conference
+event: Power Systems Computation Conference 2020
 
 links:
   - icon_pack: fas
@@ -20,15 +20,19 @@ links:
     url: https://www.youtube.com/watch?v=8OJuzNNiKQE&t=499s
   - icon_pack: fas
     icon: microphone
-    name: presentation @ Strommarkttreffen PhD seminar
+    name: presentation @ Power Systems Computation Conference (Jul 2020)
+    url: 'https://www.neumann.fyi/files/pscc2020-near-optimal.pdf'
+  - icon_pack: fas
+    icon: microphone
+    name: presentation @ Strommarkttreffen PhD seminar (Nov 2019)
     url: 'https://www.neumann.fyi/files/strommarkttreffen-phd-berlin-mga.pdf'
   - icon_pack: fas
     icon: microphone
-    name: presentation @ ES2050 project seminar
+    name: presentation @ ES2050 project seminar (Nov 2019)
     url: 'https://www.neumann.fyi/files/es2050-seminar-dresden-mga.pdf'
   - icon_pack: fas
     icon: microphone
-    name: presentation @ ES2050 PhD seminar
+    name: presentation @ ES2050 PhD seminar (Sep 2019)
     url: 'https://www.neumann.fyi/files/es2050-seminar-mga.pdf'
   - icon_pack: fas
     icon: poster
