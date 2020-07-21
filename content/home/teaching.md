@@ -19,19 +19,18 @@ subtitle = "Courses, seminars, and supervision"
 
 ## Thesis Opportunities
 
-* **Master:** [Stochastic Optimisation to Analyse Parametric Uncertainty in Energy System Models](https://www.iai.kit.edu/2552_2748.php)
-* **Master:** [Validation and Comparison of Multiple Open-Source Tools for Spatial Renewable Energy Generation Time Series Calculation](https://atlite.readthedocs.io)
-* **Master:** [Validation and Comparison of Multiple Open European Transmission Network Datasets](https://github.com/pypsa/gridkit)
+* **Master:** [Comparison of Open-Source Tools for  Renewable Energy Time Series Generation](https://atlite.readthedocs.io)
+* **Master:** [Dynamic Line Rating in Renewable Power System Models](https://www.sciencedirect.com/science/article/abs/pii/S1364032118302119)
 * **Master:** [Offshore Wind Generation in the North Sea -- Hubs and Floating Turbines](https://doi.org/10.1016/j.renene.2016.03.038)
-* **Master:** [Meteorology and Energy System Models -- Extreme Weather Events](https://www.adv-sci-res.net/16/119/2019/) (cooperation with KIT IMK-TRO)
+* **Master:** [Comparison of Multiple Open European Transmission Network Datasets](https://github.com/pypsa/gridkit)
 * **Master:** [Wave Energy Converters in Low-Emission Power System Models](https://www.tudelft.nl/en/staff/g.lavidas/) (potential cooperation with TU Delft)
-* **Master:** [Various Graph Theoretical Topics Relating to Network Flows in Energy System Models](https://i11www.iti.kit.edu/) (potential cooperation with KIT ITI)
-* **Master:** [Impact of Applying Dynamic Line Rating in Low-Carbon Power System Models](https://www.sciencedirect.com/science/article/abs/pii/S1364032118302119)
+* **Master:** [Meteorology and Energy System Models -- Extreme Weather Events](https://www.adv-sci-res.net/16/119/2019/) (cooperation with KIT Institute of Meteorology and Climate Research, Troposphere Research)
+* **Master:** [Various Graph Theoretical Topics Relating to Network Flows in Energy System Models](https://i11www.iti.kit.edu/) (potential cooperation with KIT Institute of Theoretical Informatics)
 
-## Previous Master Thesis Projects
+## Previously Supervised Projects
 
-* **Master**: [Gas Transmission Network Modelling – Sector-coupling in Highly Renewable Energy Systems](https://www.iai.kit.edu/2552_2588.php), KIT, *202ß*
-* **Seminar**: [Economic benefits and computational challenges of coordinating generation, transmission and storage infrastructure planning for low-carbon energy systems](http://go.wiwi.kit.edu/EI-WS2019-20), KIT, *2019*
+* **Master**: [Gas Transmission Network Modelling – Sector-coupling in Highly Renewable Energy Systems](https://www.iai.kit.edu/2552_2588.php), KIT, *2020*
+* **Seminar**: [Economic Benefits and computational challenges of coordinated capacity expansion planning for renewable energy systems](http://go.wiwi.kit.edu/EI-WS2019-20), KIT, *2019*
 * **Master**: [Power Transmission Loss Modelling in European-scale Energy System Optimisation](https://www.iai.kit.edu/2552_2589.php), KIT, *2019*
 * **Seminar**: Automatic Selection Methods for Candidate Lines in Transmission Expansion Planning, KIT, *2018*
 * **Master**: Selection and Evaluation of Possible Renewable Energy Import Options for the Transport Sector, Fraunhofer ISI, *2018*
