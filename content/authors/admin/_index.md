@@ -24,13 +24,14 @@ interests:
 - Energy System Modelling
 - Optimisation Theory
 - Power Flow Formulations
+- Public Acceptance
 - Open-Source Software Development
 
 education:
   courses:
   - course: PhD in Computer Science
     institution: Karlsruhe Institute of Technology (KIT)
-    year: 2021
+    year: 2021 (ongoing)
   - course: M.Sc. in Sustainable Energy Systems
     institution: The University of Edinburgh
     year: 2017
@@ -83,9 +84,9 @@ email: ""
 # - Visitors
 ---
 
-I am currently pursuing my PhD in the Energy System Modelling Group of [Dr. Tom Brown](https://nworbmot.org/) at the [Institute for Automation and Applied Informatics](https://www.iai.kit.edu/) of the Karlsruhe Institute of Technology, where I develop methodologies to improve power network representations in cross-sectoral decarbonised energy system models that co-optimise generation, transmission and storage expansion.
+I currently pursue my PhD in the Energy System Modelling Group of [Dr. Tom Brown](https://nworbmot.org/) at the [Institute for Automation and Applied Informatics](https://www.iai.kit.edu/) of the Karlsruhe Institute of Technology, where I develop methodologies to improve power network representations in cross-sectoral decarbonised energy system models that co-optimise generation, transmission and storage expansion.
 
-Previously, I did research at the [Fraunhofer ISI](https://www.isi.fraunhofer.de/), after I had finished my studies of Sustainable Energy Systems at the [University of Edinburgh](https://www.eng.ed.ac.uk/studying/postgraduate/msc-taught/msc-sustainable-energy-systems). I completed my Master in 2017 with a [dissertation](https://doi.org/10.13140/RG.2.2.13347.96805) focussed on the optimal scheduling of electric vehicles in distribution networks under uncertainty. Before that, I studied industrial engineering centred on energy informatics and energy technologies at the [Karlsruhe Institute of Technology](https://www.wiwi.kit.edu/english/studiengangWiingBSc.php). I wrote my Bachelor [thesis](https://doi.org/10.13140/RG.2.2.20058.85440) on heat pump scheduling using genetic algorithms at the [Research Centre for Information Technology (FZI)](https://www.fzi.de/en/about-us/organisation/research-divisions/ispe/?contentId_=2257).
+I studied Sustainable Energy Systems at the [University of Edinburgh](https://www.eng.ed.ac.uk/studying/postgraduate/msc-taught/msc-sustainable-energy-systems) and industrial engineering centred on energy informatics and energy technologies at the [Karlsruhe Institute of Technology](https://www.wiwi.kit.edu/english/studiengangWiingBSc.php). I also had a brief intermezzo at [Fraunhofer ISI](https://www.isi.fraunhofer.de/).
 
 I am a member of the [Open Energy Modelling Initiative](http://openmod-initiative.org/), which promotes openness and transparency in energy system modelling and I also co-develop open-source software:
 

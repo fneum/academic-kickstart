@@ -1,6 +1,7 @@
 ---
 title: "PyPSA: Free Software for Investment Planning in Sector-Coupled Energy Systems"
 date: 2020-07-15
+summary: Panel session presentation introducing how PyPSA can be used for sector-coupling applications.
 authors: ["admin", Tom Brown]
 
 links:

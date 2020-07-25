@@ -1,6 +1,7 @@
 ---
 title: "Getting Started with PyPSA-Eur: An Open Optimisation Model of the European Power System"
 date: 2020-01-16
+summary: Introduction to the PyPSA-Eur snakemake workflow and underlying scripts.
 authors: [Elisabeth Zeyen, Martha Maria Frysztacki, Fabian Hofmann, Jonas Hörsch, "admin", Tom Brown]
 
 links:
