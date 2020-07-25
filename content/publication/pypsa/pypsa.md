@@ -20,5 +20,5 @@ links:
 
 image:
   placement: 1
-  focal_point: "Smart"
+  focal_point: "Left"
 ---
