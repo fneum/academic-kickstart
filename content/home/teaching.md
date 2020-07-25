@@ -27,8 +27,10 @@ subtitle = "Courses, seminars, and supervision"
 * **Master:** [Meteorology and Energy System Models -- Extreme Weather Events](https://www.adv-sci-res.net/16/119/2019/) (cooperation with KIT Institute of Meteorology and Climate Research, Troposphere Research)
 * **Master:** [Various Graph Theoretical Topics Relating to Network Flows in Energy System Models](https://i11www.iti.kit.edu/) (potential cooperation with KIT Institute of Theoretical Informatics)
 
-## Previously Supervised Projects
+## Previous and Ongoing Projects
 
+* **Master**: [Optimizing the Distributed Storage Problem using Time-Expanded Network Flow (with ITI)](https://www.pearson.com/us/higher-education/program/Ahuja-Network-Flows-Theory-Algorithms-and-Applications/PGM148966.html), KIT, *2020*
+* **Project**: [Topology-based Heuristics for N-1 Security-constrained Linear Optimal Power Flow](https://pypsa.readthedocs.io/en/latest/contingency_analysis.html), KIT, *2020*
 * **Master**: [Gas Transmission Network Modelling – Sector-coupling in Highly Renewable Energy Systems](https://www.iai.kit.edu/2552_2588.php), KIT, *2020*
 * **Seminar**: [Economic Benefits and computational challenges of coordinated capacity expansion planning for renewable energy systems](http://go.wiwi.kit.edu/EI-WS2019-20), KIT, *2019*
 * **Master**: [Power Transmission Loss Modelling in European-scale Energy System Optimisation](https://www.iai.kit.edu/2552_2589.php), KIT, *2019*
