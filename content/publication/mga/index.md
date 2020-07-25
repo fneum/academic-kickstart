@@ -38,6 +38,10 @@ links:
     icon: poster
     name: poster @ openmod workshop (January 2020)
     url: 'https://www.neumann.fyi/files/openmod-mga-poster.pdf'
+
+image:
+  placement: 1
+  focal_point: "Smart"
 ---
 
 Models for long-term investment planning of the power system typically return
