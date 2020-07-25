@@ -40,7 +40,7 @@ links:
     url: 'https://www.neumann.fyi/files/openmod-mga-poster.pdf'
 
 image:
-  placement: 1
+  placement: 2
   focal_point: "Smart"
 ---
 
