@@ -32,6 +32,10 @@ links:
     icon: youtube
     name: YouTube
     url: https://www.youtube.com/watch?v=-Oz8bjFdilY&t=504s
+
+image:
+  placement: 1
+  focal_point: "Center"
 ---
 
 

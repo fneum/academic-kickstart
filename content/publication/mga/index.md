@@ -40,8 +40,8 @@ links:
     url: 'https://www.neumann.fyi/files/openmod-mga-poster.pdf'
 
 image:
-  placement: 2
-  focal_point: "Smart"
+  placement: 1
+  focal_point: "Center"
 ---
 
 Models for long-term investment planning of the power system typically return

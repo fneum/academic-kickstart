@@ -8,6 +8,10 @@ links:
     icon: book
     name: report
     url: 'https://www.umweltbundesamt.de/publikationen/roadmap-gas-fuer-die-energiewende-nachhaltiger'
+
+image:
+  placement: 1
+  focal_point: "Center"
 ---
 
  > Die Umsetzung der Energie- und Klimaziele der Bundesregierung führen zu einem deutlichen Rückgang des Gasbedarfs. Damit stehen auch im Gasmarkt erhebliche Änderungen und infrastrukturelle Herausforderungen an. Nicht alle Gasverteilnetze werden wirtschaftlich fortbestehen können. Das Fernleitungsnetz wird zukünftig im ähnlichen Umfang wie heute benötigt. Änderungen sind vor allem bei der Auslastung und bei den Importrouten bei zunehmender Integration von strombasiert hergestelltem Methan und angestrebter Diversifizierung der Importländer zu erwarten. Die im Auftrag des Umweltbundesamtes durchgeführte Studie analysiert Szenarien aus der Literatur und führt darauf aufbauend vereinfachte Modellberechnungen für den infrastrukturellen Bedarf und den damit verbundenen Kosten durch.

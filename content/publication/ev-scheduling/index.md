@@ -12,6 +12,10 @@ links:
     icon: book
     name: PDF
     url: 'https://www.neumann.fyi/files/ev-scheduling.pdf'
+
+image:
+  placement: 1
+  focal_point: "Smart"
 ---
 
 Rapid increase in the number of electric vehicles will likely deteriorate voltage profiles

@@ -16,6 +16,10 @@ links:
     icon: microphone
     name: presentation @ IAEE 26th Workshop Student Chapters
     url: 'https://www.neumann.fyi/files/gee_presentation.pdf'
+
+image:
+  placement: 1
+  focal_point: "Smart"
 ---
 
  A potential solution to reduce greenhouse gas (GHG) emissions in the transport sector is to use alternatively fueled vehicles (AFV). Heavy-duty vehicles (HDV) emit a large share of GHG emissions in the transport sector and are therefore the subject of growing attention from global regulators. Fuel cell and green hydrogen technologies are a promising option to decarbonize HDVs, as their fast refueling and long vehicle ranges are in line with current logistic operation concepts. Moreover, the application of green hydrogen in transport could enable more effective integration of renewable energies (RE) across different energy sectors.

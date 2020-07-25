@@ -18,6 +18,10 @@ links:
     icon: microphone
     name: presentation
     url: 'https://www.neumann.fyi/files/eem19-tepheuristics.pdf'
+
+image:
+  placement: 1
+  focal_point: "Smart"
 ---
 
 Governments across the world are planning to increase the share of renewables in their energy systems. The siting of new wind and solar power plants requires close coordination with grid planning, and hence co-optimization of investment in generation and transmission expansion in spatially and temporally resolved models is an indispensable but complex problem. Particularly considerations of transmission expansion planning (TEP) add to the problem's complexity. 

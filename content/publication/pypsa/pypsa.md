@@ -17,4 +17,8 @@ links:
     icon: laptop-code
     name: presentation @ IIT Comillas (Jul 2019)
     url: 'https://www.dropbox.com/sh/izb8z2ope7u20al/AAArfvPjb2o6nAYdIdGQovY9a?dl=0'
+
+image:
+  placement: 1
+  focal_point: "Smart"
 ---
