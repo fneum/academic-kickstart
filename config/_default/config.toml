@@ -16,7 +16,7 @@ baseurl = "https://neumann.fyi/"
 copyright = "Copyright {year} &copy; Fabian Neumann. This work is licensed under a Creative Commons Attribution 4.0 International license."
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-173599556-1"
 
 ############################
 ## Advanced options below ##
