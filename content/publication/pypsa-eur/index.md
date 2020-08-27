@@ -20,6 +20,6 @@ links:
 
 image:
   placement: 1
-  focal_point: "Center"
+  focal_point: "Smart"
 ---
 

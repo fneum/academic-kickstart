@@ -6,8 +6,8 @@ authors: ["admin", Veit Hagenmeyer, Tom Brown]
 links:
   - icon_pack: fas
     icon: book
-    name: ResearchGate
-    url: 'https://www.researchgate.net/publication/43887121_Approximating_Power_Flow_and_Transmission_Losses_in_Coordinated_Capacity_Expansion_Problems'
+    name: preprint
+    url: 'https://arxiv.org/abs/2008.11510'
   - icon_pack: fas
     icon: code
     name: code
