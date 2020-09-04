@@ -11,6 +11,10 @@ links:
     name: preprint
     url: 'http://arxiv.org/abs/1910.01891'
   - icon_pack: fas
+    icon: book
+    name: Electric Power Systems Research
+    url: 'https://doi.org/10.1016/j.epsr.2020.106690'
+  - icon_pack: fas
     icon: code
     name: code
     url: 'https://github.com/pypsa/pypsa-eur-mga'
