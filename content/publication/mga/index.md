@@ -15,6 +15,10 @@ links:
     name: Electric Power Systems Research
     url: 'https://doi.org/10.1016/j.epsr.2020.106690'
   - icon_pack: fas
+    icon: twitter
+    name: Twitter
+    url: 'https://twitter.com/fneum_/status/1308728435787866113'
+  - icon_pack: fas
     icon: code
     name: code
     url: 'https://github.com/pypsa/pypsa-eur-mga'
