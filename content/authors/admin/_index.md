@@ -49,7 +49,7 @@ social:
   link: 'mailto:fabian.neumann@kit.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/fneum
+  link: https://twitter.com/fneum_
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=95r2i_IAAAAJ&hl=en
