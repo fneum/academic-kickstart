@@ -6,6 +6,10 @@ authors: ["admin"]
 links:
   - icon_pack: fas
     icon: book
+    name: Energy Strategy Reviews
+    url: 'https://doi.org/10.1016/j.esr.2021.100652'
+  - icon_pack: fas
+    icon: book
     name: preprint
     url: 'http://arxiv.org/abs/2007.08379'
   - icon_pack: fas
