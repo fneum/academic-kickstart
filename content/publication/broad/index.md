@@ -1,48 +1,41 @@
 ---
-title: "Approximating Power Flow and Transmission Losses in Coordinated Capacity Expansion Problems"
-date: 2020-08-26
-authors: ["admin", Veit Hagenmeyer, Tom Brown]
+title: "Broad Ranges of Investment Configurations for Renewable Power Systems, Robust to Cost Uncertainty and Near-Optimality"
+date: 2021-05-30
+authors: ["admin", Tom Brown]
 
 links:
   - icon_pack: fas
     icon: book
     name: preprint
-    url: 'https://arxiv.org/abs/2008.11510'
+    url: 'http://neumann.fyi/files/neumann-2021-broad-ranges.pdf'
   - icon_pack: fas
     icon: code
     name: code
-    url: 'https://github.com/fneum/power-flow-models'
+    url: 'https://github.com/fneum/broad-ranges'
 
 image:
   placement: 1
   focal_point: "Smart"
 ---
 
-With rising shares of renewables and the need to properly assess trade-offs
-between transmission, storage and sectoral integration as balancing options,
-building a bridge between energy system models and detailed power flow studies
-becomes increasingly important, but is computationally challenging.
-
-We compare approximations for two nonlinear phenomena, power flow and
-transmission losses, in linear capacity expansion problems that co-optimise
-investments in generation, storage and transmission infrastructure. We evaluate
-different flow representations discussing differences in investment decisions,
-nodal prices, the deviation of optimised flows and losses from simulated AC
-power flows, and the computational performance. By using the open European
-power system model PyPSA-Eur we obtain detailed and reproducible results aiming
-at facilitating the selection of a suitable power flow model.
-
-Given the differences in complexity, the optimal choice depends on the
-application, the user's available computational resources, and the level of
-spatial detail considered. Although the commonly used transport model can
-already identify key features of a cost-efficient system while being
-computationally performant, deficiencies under high loading conditions arise
-due to the lack of a physical grid representation. Moreover, disregarding
-transmission losses overestimates optimal grid expansion by 20%. Adding a
-convex relaxation of quadratic losses with two or three tangents to the
-linearised power flow equations and accounting for changing line impedances as
-the network is reinforced suffices to represent power flows and losses
-adequately in design studies. We show that the obtained investment and dispatch
-decisions are then sufficiently physical to be used in more detailed nonlinear
-simulations of AC power flow in order to better assess their technical
-feasibility.
+To achieve ambitious greenhouse gas emission reduction targets in time, the
+planning of future energy systems needs to accommodate societal preferences,
+e.g.~low levels of acceptance for transmission expansion or onshore wind
+turbines, and must also acknowledge the inherent uncertainties of technology
+cost projections. To date, however, many capacity expansion models lean heavily
+towards only minimising system cost and only studying few cost projections.
+Here, we address both criticisms in unison. While taking account of technology
+cost uncertainties, we apply methods from multi-objective optimisation to
+explore trade-offs in a fully renewable European electricity system between
+increasing system cost and extremising the use of individual technologies for
+generating, storing and transmitting electricity to build robust insights about
+what actions are viable within given cost ranges. We identify boundary
+conditions that must be met for cost-efficiency regardless of how cost
+developments will unfold; for instance, that some grid reinforcement and
+long-term storage alongside a significant amount of wind capacity appear
+essential. But, foremost, we reveal that near the cost-optimum a broad spectrum
+of regionally and technologically diverse options exists in any case, which
+allows policymakers to navigate around public acceptance issues. The analysis
+requires to manage many computationally demanding scenario runs efficiently, for
+which we leverage multi-fidelity surrogate modelling techniques using sparse
+polynomial chaos expansions and low-discrepancy sampling.
