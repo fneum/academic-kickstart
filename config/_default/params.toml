@@ -18,7 +18,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: s (small), m (medium), l (large)
-font_size = "m"
+font_size = "s"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -27,7 +27,7 @@ description = ""
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "fneum"
+twitter = "fneum_"
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".

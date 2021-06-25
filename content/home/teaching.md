@@ -9,15 +9,17 @@ title = "Teaching"
 subtitle = "Courses, seminars, and supervision"
 +++
 
-## Courses and Seminars
+<!-- ## Courses and Seminars -->
 
+* **Seminar** in [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2020/energieinformatikseminar/index), KIT *(winter 2020)*
 * **Tutorials** for [Energy System Modelling](https://nworbmot.org/courses/esm-2020/), KIT *(summer 2020)*
 * **Seminar** in [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2019/energieinformatikseminar/index), KIT *(winter 2019)*
 * **Tutorials** for [Energy System Modelling](https://nworbmot.org/courses/esm-2019/), KIT *(summer 2019)*
 * **Seminar** in [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2018/energieseminar/index), KIT *(winter 2018)*
 * **Tutorials** for [Energy System Modelling](https://nworbmot.org/courses/esm-2018/), KIT *(summer 2018)*
+* **Thesis Supervision**
 
-## Thesis Opportunities
+<!-- ## Thesis Opportunities
 
 * **Master:** [Comparison of Open-Source Tools for  Renewable Energy Time Series Generation](https://atlite.readthedocs.io)
 * **Master:** [Dynamic Line Rating in Renewable Power System Models](https://www.sciencedirect.com/science/article/abs/pii/S1364032118302119)
@@ -36,4 +38,4 @@ subtitle = "Courses, seminars, and supervision"
 * **Master**: [Power Transmission Loss Modelling in European-scale Energy System Optimisation](https://www.iai.kit.edu/2552_2589.php), KIT, *2019*
 * **Seminar**: Automatic Selection Methods for Candidate Lines in Transmission Expansion Planning, KIT, *2018*
 * **Master**: Selection and Evaluation of Possible Renewable Energy Import Options for the Transport Sector, Fraunhofer ISI, *2018*
-* **Master**: Use of Renewable Synthetic Fuels in Decarbonised Shipping and Aviation,Fraunhofer ISI, *2018*
+* **Master**: Use of Renewable Synthetic Fuels in Decarbonised Shipping and Aviation,Fraunhofer ISI, *2018* -->
