@@ -1,5 +1,5 @@
 ---
-title: "atlite: A Lightweight Python Package for CalculatingRenewable Power Potentials and Time Series"
+title: "atlite: A Lightweight Python Package for Calculating Renewable Power Potentials and Time Series"
 date: 2021-06-24
 authors: [Fabian Hofmann, Johannes Hampp, "admin", Tom Brown, Jonas Hörsch]
 

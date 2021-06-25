@@ -12,6 +12,14 @@ links:
     icon: code
     name: code
     url: 'https://github.com/fneum/broad-ranges'
+  - icon_pack: fas
+    icon: microphone
+    name: presentation @ International Energy Workshop 2021
+    url: 'https://www.neumann.fyi/files/iew-2021'
+  - icon_pack: fas
+    icon: microphone
+    name: presentation @ UNIGE
+    url: 'https://www.neumann.fyi/files/iew-2021'
 
 image:
   placement: 1
