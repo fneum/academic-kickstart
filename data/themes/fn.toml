@@ -5,13 +5,13 @@ name = "fn"
 light = true
 
 # Primary
-primary = "#009682"
+primary = "#096366"
 
 # Menu
-menu_primary = "#333"
-menu_text = "#eee"
-menu_text_active = "#009682"
-menu_title = "#eee"
+menu_primary = "#eee"
+menu_text = "#333"
+menu_text_active = "#096366"
+menu_title = "#333"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
