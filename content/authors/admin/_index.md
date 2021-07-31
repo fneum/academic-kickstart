@@ -93,5 +93,5 @@ I studied Sustainable Energy Systems at the [University of Edinburgh](https://ww
 I am a member of the [Open Energy Modelling Initiative](http://openmod-initiative.org/), which promotes openness and transparency in energy system modelling and I also co-develop open-source software:
 
 - [PyPSA](https://github.com/PyPSA/PyPSA) is a power system analysis toolbox written in Python.
-- [PyPSA-Eur](https://github.com/PyPSA/PyPSA-Eur) is is an open model dataset of the European power system at the transmission network level.
+- [PyPSA-Eur](https://github.com/PyPSA/PyPSA-Eur) is a workflow to build an open model of the European electricity system.
 - [PyPSA-Eur-Sec](https://github.com/PyPSA/PyPSA-Eur-Sec) is the sector-coupling extension of PyPSA-Eur.
