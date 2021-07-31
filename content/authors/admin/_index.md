@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Energy System Modelling
+role: Energy System Modeller
 
 # Organizations/Affiliations
 organizations:
@@ -22,16 +22,17 @@ bio: My research interests evolve around renewable energy networks, energy syste
 
 interests:
 - Energy System Modelling
+- Sector Coupling
 - Optimisation Theory
 - Power Flow Formulations
 - Public Acceptance
-- Open-Source Software Development
+- Open-Source Software
 
 education:
   courses:
   - course: PhD in Computer Science
     institution: Karlsruhe Institute of Technology (KIT)
-    year: 2021 (ongoing)
+    year: 2021
   - course: M.Sc. in Sustainable Energy Systems
     institution: The University of Edinburgh
     year: 2017
@@ -84,11 +85,13 @@ email: ""
 # - Visitors
 ---
 
-I currently pursue my PhD in the Energy System Modelling Group of [Dr. Tom Brown](https://nworbmot.org/) at the [Institute for Automation and Applied Informatics](https://www.iai.kit.edu/) of the Karlsruhe Institute of Technology, where I develop methodologies to improve power network representations in cross-sectoral decarbonised energy system models that co-optimise generation, transmission and storage expansion.
+I am an energy system modeller at the [Institute for Automation and Applied Informatics](https://www.iai.kit.edu/) of the Karlsruhe Institute of Technology (KIT), where I wrote my dissertation on
+computational and near-optimal trade-offs in renewable electricity system modelling.
 
-I studied Sustainable Energy Systems at the [University of Edinburgh](https://www.eng.ed.ac.uk/studying/postgraduate/msc-taught/msc-sustainable-energy-systems) and industrial engineering centred on energy informatics and energy technologies at the [Karlsruhe Institute of Technology](https://www.wiwi.kit.edu/english/studiengangWiingBSc.php). I also had a brief intermezzo at [Fraunhofer ISI](https://www.isi.fraunhofer.de/).
+I studied Sustainable Energy Systems at the [University of Edinburgh](https://www.eng.ed.ac.uk/studying/postgraduate/msc-taught/msc-sustainable-energy-systems) and industrial engineering centred on computational methods in energy research at the [Karlsruhe Institute of Technology](https://www.wiwi.kit.edu/english/studiengangWiingBSc.php). I also briefly worked at [Fraunhofer ISI](https://www.isi.fraunhofer.de/).
 
 I am a member of the [Open Energy Modelling Initiative](http://openmod-initiative.org/), which promotes openness and transparency in energy system modelling and I also co-develop open-source software:
 
-- __PyPSA__ is a power system analysis toolbox written in Python. It's available at [github.com/PyPSA/PyPSA](https://github.com/PyPSA/PyPSA) and documented at [pypsa.readthedocs.io](https://pypsa.readthedocs.io/).
-- __PyPSA-Eur__ is is an open model dataset of the European power system at the transmission network level that covers the full ENTSO-E area. It's available at [github.com/PyPSA/PyPSA](https://github.com/PyPSA/PyPSA-Eur) and documented at [pypsa-eur.readthedocs.io](https://pypsa-eur.readthedocs.io/). The dataset of pre-built networks is available at [10.5281/zenodo.3601882](https://doi.org/10.5281/zenodo.3601882).
+- [PyPSA](https://github.com/PyPSA/PyPSA) is a power system analysis toolbox written in Python.
+- [PyPSA-Eur](https://github.com/PyPSA/PyPSA-Eur) is is an open model dataset of the European power system at the transmission network level.
+- [PyPSA-Eur-Sec](https://github.com/PyPSA/PyPSA-Eur-Sec) is the sector-coupling extension of PyPSA-Eur.
