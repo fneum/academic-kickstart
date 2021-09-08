@@ -14,8 +14,8 @@ role: Energy System Modeller
 
 # Organizations/Affiliations
 organizations:
-- name: Karlsruhe Institute of Technology (KIT)
-  url: "https://www.kit.edu"
+- name: Technische Universität Berlin
+  url: "https://ensys.tu-berlin.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests evolve around renewable energy networks, energy system modelling, sector coupling, large-scale optimisation and energy technologies.
@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science (ongoing)
+  - course: PhD in Computer Science (defended, certificate pending)
     institution: Karlsruhe Institute of Technology (KIT)
     year: 2021
   - course: M.Sc. in Sustainable Energy Systems
@@ -68,7 +68,7 @@ social:
   link: https://orcid.org/0000-0001-8551-1480
 - icon: university
   icon_pack: fas
-  link: https://www.iai.kit.edu/english/esm.php
+  link: https://ensys.tu-berlin.de
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -85,7 +85,9 @@ email: ""
 # - Visitors
 ---
 
-I am an energy system modeller at the [Institute for Automation and Applied Informatics](https://www.iai.kit.edu/) of the Karlsruhe Institute of Technology (KIT), where I wrote my dissertation on
+I am an energy system modeller at the [Department of Digital Transformation in Energy Systems](https://ensys.tu-berlin.de) at the [Technische Universität Berlin (TUB)](https://tu.berlin).
+
+Previously, I pursued a PhD at the [Institute for Automation and Applied Informatics](https://www.iai.kit.edu/) of the [Karlsruhe Institute of Technology (KIT)](https://kit.edu) focussing on
 computational and near-optimal trade-offs in renewable electricity system modelling.
 
 I studied Sustainable Energy Systems at the [University of Edinburgh](https://www.eng.ed.ac.uk/studying/postgraduate/msc-taught/msc-sustainable-energy-systems) and industrial engineering centred on computational methods in energy research at the [Karlsruhe Institute of Technology](https://www.wiwi.kit.edu/english/studiengangWiingBSc.php). I also briefly worked at [Fraunhofer ISI](https://www.isi.fraunhofer.de/).

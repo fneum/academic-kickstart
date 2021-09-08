@@ -11,13 +11,24 @@ subtitle = "Courses, seminars, and supervision"
 
 <!-- ## Courses and Seminars -->
 
-* **Seminar** in [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2020/energieinformatikseminar/index), KIT *(winter 2020)*
-* **Tutorials** for [Energy System Modelling](https://nworbmot.org/courses/esm-2020/), KIT *(summer 2020)*
-* **Seminar** in [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2019/energieinformatikseminar/index), KIT *(winter 2019)*
-* **Tutorials** for [Energy System Modelling](https://nworbmot.org/courses/esm-2019/), KIT *(summer 2019)*
-* **Seminar** in [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2018/energieseminar/index), KIT *(winter 2018)*
-* **Tutorials** for [Energy System Modelling](https://nworbmot.org/courses/esm-2018/), KIT *(summer 2018)*
-* **Thesis Supervision**
+| Type | Class | Institution | Term |
+|---------|--------|------------|-----|
+| Tutorial | Energy Economics | TU Berlin | WS 21/22 |
+|---------|--------|------------|-----|
+| Seminar | [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2020/energieinformatikseminar/index)  | KIT | WS 20/21 |
+|---------|--------|------------|-----|
+| Tutorial | [Energy System Modelling](https://nworbmot.org/courses/esm-2020/) | KIT | SS 20 |
+|---------|--------|------------|-----|
+| Seminar | [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2019/energieinformatikseminar/index) | KIT | WS 19/20 |
+|---------|--------|------------|-----|
+| Tutorial | [Energy System Modelling](https://nworbmot.org/courses/esm-2019/) | KIT | SS 19 |
+|---------|--------|------------|-----|
+| Seminar | [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2018/energieseminar/index) | KIT | WS 18/19 |
+|---------|--------|------------|-----|
+| Tutorial | [Energy System Modelling](https://nworbmot.org/courses/esm-2018/) | KIT | SS 18 |
+|---------|--------|------------|-----|
+
+We are always looking for keen and enthusiastic master students to work in our group. If you're interested, please send a CV to vie e-mail.
 
 <!-- ## Thesis Opportunities
 
