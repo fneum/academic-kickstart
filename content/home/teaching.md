@@ -14,21 +14,16 @@ subtitle = "Courses, seminars, and supervision"
 | Type | Class | Institution | Term |
 |---------|--------|------------|-----|
 | Tutorial | Energy Economics | TU Berlin | WS 21/22 |
-|---------|--------|------------|-----|
 | Seminar | [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2020/energieinformatikseminar/index)  | KIT | WS 20/21 |
-|---------|--------|------------|-----|
 | Tutorial | [Energy System Modelling](https://nworbmot.org/courses/esm-2020/) | KIT | SS 20 |
-|---------|--------|------------|-----|
 | Seminar | [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2019/energieinformatikseminar/index) | KIT | WS 19/20 |
-|---------|--------|------------|-----|
 | Tutorial | [Energy System Modelling](https://nworbmot.org/courses/esm-2019/) | KIT | SS 19 |
-|---------|--------|------------|-----|
 | Seminar | [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2018/energieseminar/index) | KIT | WS 18/19 |
-|---------|--------|------------|-----|
 | Tutorial | [Energy System Modelling](https://nworbmot.org/courses/esm-2018/) | KIT | SS 18 |
-|---------|--------|------------|-----|
 
-We are always looking for keen and enthusiastic master students to work in our group. If you're interested, please send a CV to vie e-mail.
+We are always looking for keen and enthusiastic master students to work in our group.
+If you're interested in writing a thesis or work as research / teaching assistant,
+please send a CV and a short personal statement via e-mail. 
 
 <!-- ## Thesis Opportunities
 

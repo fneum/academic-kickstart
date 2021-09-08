@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science (defended, certificate pending)
+  - course: PhD in Computer Science (defended)
     institution: Karlsruhe Institute of Technology (KIT)
     year: 2021
   - course: M.Sc. in Sustainable Energy Systems
