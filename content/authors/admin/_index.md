@@ -15,7 +15,7 @@ role: Energy System Modeller
 # Organizations/Affiliations
 organizations:
 - name: Technische Universität Berlin
-  url: "https://ensys.tu-berlin.de"
+  url: "https://www.ensys.tu-berlin.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests evolve around renewable energy networks, energy system modelling, sector coupling, large-scale optimisation and energy technologies.
@@ -68,7 +68,7 @@ social:
   link: https://orcid.org/0000-0001-8551-1480
 - icon: university
   icon_pack: fas
-  link: https://ensys.tu-berlin.de
+  link: https://www.ensys.tu-berlin.de
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -85,7 +85,7 @@ email: ""
 # - Visitors
 ---
 
-I am an energy system modeller at the [Department of Digital Transformation in Energy Systems](https://ensys.tu-berlin.de) at the [Technische Universität Berlin (TUB)](https://tu.berlin).
+I am an energy system modeller at the [Department of Digital Transformation in Energy Systems](https://www.ensys.tu-berlin.de) at the [Technische Universität Berlin (TUB)](https://www.tu.berlin).
 
 Previously, I pursued a PhD at the [Institute for Automation and Applied Informatics](https://www.iai.kit.edu/) of the [Karlsruhe Institute of Technology (KIT)](https://kit.edu) focussing on
 computational and near-optimal trade-offs in renewable electricity system modelling.
