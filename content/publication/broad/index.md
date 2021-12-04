@@ -7,19 +7,23 @@ links:
   - icon_pack: fas
     icon: book
     name: preprint
-    url: 'http://neumann.fyi/files/neumann-2021-broad-ranges.pdf'
+    url: 'https://arxiv.org/abs/2111.14443'
   - icon_pack: fas
     icon: code
     name: code
     url: 'https://github.com/fneum/broad-ranges'
   - icon_pack: fas
     icon: microphone
-    name: presentation @ International Energy Workshop 2021
-    url: 'https://www.neumann.fyi/files/iew-2021'
+    name: presentation @ International Energy Workshop (IEW) 2021
+    url: 'https://www.neumann.fyi/files/iew-2021.pdf'
   - icon_pack: fas
     icon: microphone
     name: presentation @ UNIGE
-    url: 'https://www.neumann.fyi/files/iew-2021'
+    url: 'https://www.neumann.fyi/files/iew-2021.pdf'
+  - icon_pack: fas
+    icon: microphone
+    name: presentation @ Energy Modelling Platform Europe (EMP-E) 2021
+    url: 'https://www.neumann.fyi/files/empe-neumann-2021.pdf'
 
 image:
   placement: 1
