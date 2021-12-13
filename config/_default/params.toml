@@ -67,7 +67,7 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "fabian.neumann@kit.edu "
+email = "f.neumann@tu-berlin.de"
 phone = "+49 171 294 3831"
 address = "Building 445, Office 304, Karlsruhe Institute of Techology, Campus North, Germany"
 

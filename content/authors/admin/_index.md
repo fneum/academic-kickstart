@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:fabian.neumann@kit.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:f.neumann@tu-berlin.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/fneum_
