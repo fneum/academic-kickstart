@@ -1,6 +1,6 @@
 ---
-title: "Broad Ranges of Investment Configurations for Renewable Power Systems, Robust to Cost Uncertainty and Near-Optimality"
-date: 2021-12-01
+title: "Long-Term Benefits for Renewables Integration of Network Boosters for Corrective Grid Security"
+date: 2021-12-13
 authors: [Amin Shokri Gazafroudi, Elisabeth Zeyen, Martha Frysztacki, "admin", Tom Brown]
 
 links:
