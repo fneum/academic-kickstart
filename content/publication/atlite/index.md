@@ -14,7 +14,7 @@ links:
     url: 'https://github.com/pypsa/atlite'
 
 image:
-  placement: 2
+  placement: 3
   focal_point: "Center"
 ---
 
