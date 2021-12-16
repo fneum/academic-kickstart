@@ -13,7 +13,8 @@ subtitle = "Courses, seminars, and supervision"
 
 | Type | Class | Institution | Term |
 |---------|--------|------------|-----|
-| Tutorial | Energy Economics | TU Berlin | WS 21/22 |
+| Tutorial | [Energy Economics](https://isis.tu-berlin.de/course/view.php?id=25940) | TU Berlin | WS 21/22 |
+| Seminar | [New Developments in Energy Markets](https://isis.tu-berlin.de/course/view.php?id=27485) | TU Berlin | WS21/22 |
 | Seminar | [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2020/energieinformatikseminar/index)  | KIT | WS 20/21 |
 | Tutorial | [Energy System Modelling](https://nworbmot.org/courses/esm-2020/) | KIT | SS 20 |
 | Seminar | [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2019/energieinformatikseminar/index) | KIT | WS 19/20 |
