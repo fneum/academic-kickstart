@@ -18,14 +18,14 @@ organizations:
   url: "https://www.ensys.tu-berlin.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests evolve around renewable energy networks, energy system modelling, sector coupling, large-scale optimisation and energy technologies.
+bio: My research interests evolve around energy system modelling, sector coupling, large-scale optimisation and data visualization.
 
 interests:
 - Energy System Modelling
-- Sector Coupling
-- Optimisation Theory
-- Power Flow Formulations
+- Cross-sectoral Modelling
+- Optimisation
 - Public Acceptance
+- Data Visualization
 - Open-Source Software
 
 education:
