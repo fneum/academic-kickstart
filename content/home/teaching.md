@@ -35,6 +35,7 @@ personal statement via e-mail.
 
 * Master: Benefits of Industry Relocation for the European Energy Transition, TUB, 2022
 * Master: Onshore wind generation in Europe: A GIS-based sensitivity analysis of future technical potential under spatial constraints, TUB, 2022
+
 ## Past Thesis Projects
 
 * Master: Optimizing the Distributed Storage Problem using Time-Expanded Network Flow, KIT, 2020
