@@ -20,6 +20,10 @@ links:
     icon: microphone
     name: presentation @ EURO2022, Espoo
     url: 'https://www.neumann.fyi/files/neumann-euro-2022.pdf'
+  - icon_pack: fas
+    icon: microphone
+    name: presentation @ ENERDAY 2022, Dresden
+    url: 'https://www.neumann.fyi/files/enerday-spatial-sector.pdf'
 
 image:
   placement: 1
