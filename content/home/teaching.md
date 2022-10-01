@@ -13,7 +13,7 @@ subtitle = "Courses, seminars, and supervision"
 
 | Type | Class | Institution | Term |
 |---------|--------|------------|-----|
-| Lecture | Data Science for Energy System Modelling | TU Berlin | WS 22/23 |
+| Lecture | [Data Science for Energy System Modelling](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html;jsessionid=p3A8ArydsAHUvQZZDhma1_l89LUyHPR3j4I9Bksi.moseskonto?number=31027&version=1&sprache=2) | TU Berlin | WS 22/23 |
 | Tutorial | [Energy Economics](https://isis.tu-berlin.de/course/view.php?id=25940) | TU Berlin | WS 21/22 |
 | Seminar | [New Developments in Energy Markets](https://isis.tu-berlin.de/course/view.php?id=27485) | TU Berlin | WS 21/22 |
 | Seminar | [Energy Informatics](https://i11www.iti.kit.edu/teaching/winter2020/energieinformatikseminar/index)  | KIT | WS 20/21 |
