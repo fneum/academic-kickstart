@@ -9,6 +9,10 @@ links:
     name: International Journal of Electrical Power & Energy Systems
     url: 'https://doi.org/10.21105/joss.03294'
   - icon_pack: fas
+    icon: book
+    name: postprint
+    url: 'http://arxiv.org/abs/2211.00970'
+  - icon_pack: fas
     icon: code
     name: Github
     url: 'https://github.com/PyPSA/condynet-2-wp-1'
