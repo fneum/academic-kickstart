@@ -68,7 +68,7 @@ social:
   link: https://orcid.org/0000-0001-8551-1480
 - icon: university
   icon_pack: fas
-  link: https://www.ensys.tu-berlin.de
+  link: https://www.tu.berlin/ensys
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -97,3 +97,5 @@ I am a member of the [Open Energy Modelling Initiative](http://openmod-initiativ
 - [PyPSA](https://github.com/PyPSA/PyPSA) is a power system analysis toolbox written in Python.
 - [PyPSA-Eur](https://github.com/PyPSA/PyPSA-Eur) is a workflow to build an open model of the European electricity system.
 - [PyPSA-Eur-Sec](https://github.com/PyPSA/PyPSA-Eur-Sec) is the sector-coupling extension of PyPSA-Eur.
+
+Since 2022 I teach a course on [Data Science in Energy System Modelling](https://fneum.github.io/data-science-for-esm/intro.html) at [TU Berlin](https://www.tu.berlin).
