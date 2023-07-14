@@ -1,13 +1,21 @@
 ---
 title: "Broad Ranges of Investment Configurations for Renewable Power Systems, Robust to Cost Uncertainty and Near-Optimality"
-date: 2021-12-01
+date: 2023-04-20
 authors: ["admin", Tom Brown]
 
 links:
   - icon_pack: fas
     icon: book
+    name: iScience
+    url: 'https://doi.org/10.1016/j.isci.2023.106702'
+  - icon_pack: fas
+    icon: book
     name: preprint
     url: 'https://arxiv.org/abs/2111.14443'
+  - icon_pack: fas
+    icon: twitter
+    name: Twitter
+    url: 'https://twitter.com/fneum_/status/1668973698160934913?s=20'
   - icon_pack: fas
     icon: code
     name: code

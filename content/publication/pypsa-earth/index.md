@@ -6,8 +6,16 @@ authors: [Maximilian Parzen, Hazem Abdel-Khalek, Ekaterina Fedorova, Matin Mahmo
 links:
   - icon_pack: fas
     icon: book
+    name: Applied Energy
+    url: 'http://doi.org/10.1016/j.apenergy.2023.121096'
+  - icon_pack: fas
+    icon: book
     name: preprint
     url: 'http://arxiv.org/abs/2209.04663'
+  - icon_pack: fas
+    icon: twitter
+    name: Twitter
+    url: 'https://twitter.com/maxparzen/status/1648999725050331136?s=20'
 
 image:
   placement: 1
