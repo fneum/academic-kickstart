@@ -37,7 +37,7 @@ echo -e "Source Themes Academic v$version\n"
 echo -e "Checking for updates...\n"
 cd themes/academic
 git fetch
-git log --pretty=oneline --abbrev-commit --decorate HEAD..origin/master
+git log --pretty=oneline --abbrev-commit --decorate HEAD..origin/main
 cd ../../
 
 title="Do you wish to install the above updates?"
